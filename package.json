@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@react-native-community/eslint-config": "^3.2.0",
+    "eslint": "^8.57.1",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@reduxjs/toolkit": "^2.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "react-native-keychain": "^10.0.0",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-redux": "^9.2.0",
+    "realm": "^20.1.0"
+  }
+}
