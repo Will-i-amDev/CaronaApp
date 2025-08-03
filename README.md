@@ -1,8 +1,8 @@
-# 🚗 CaronaApp - Aplicativo de Carona comunitário
+#  CaronaApp - Aplicativo de Carona comunitário
 
 Um aplicativo mobile desenvolvido em React Native para conectar passageiros e motoristas, permitindo solicitar e oferecer caronas de forma simples e eficiente.
 
-## 📱 Sobre o Projeto
+##  Sobre o Projeto
 
 O CaronaApp é um projeto desenvolvido como parte da disciplina de **Programação para Dispositivos Móveis em Android** do curso de Engenharia de Software. O objetivo é criar uma aplicação completa que demonstre os conceitos aprendidos em React Native, incluindo navegação, persistência de dados, integração com APIs e desenvolvimento de interfaces móveis.
 
@@ -73,7 +73,7 @@ servidor-api/
 │   └── index.js                   # Servidor Express
 ```
 
-## 🚀 Como Executar o Projeto
+## Executar o Projeto
 
 ### Pré-requisitos
 - Node.js (versão 14 ou superior)
